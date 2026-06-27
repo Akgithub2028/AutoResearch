@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-core
+langsmith
+pydantic
+langchain-google-genai
+python-dotenv
+langchain-community
+ddgs
+arxiv>=2.1.0
+langchain-mistralai
+jinja2
+streamlit
